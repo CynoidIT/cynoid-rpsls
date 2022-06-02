@@ -1,0 +1,22 @@
+body{
+  width: 60%;
+  text-align: center;
+  margin: 0 auto;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-Fmdp2TIxOb0%2FTgRU6U9z-pI%2FAAAAAAAAAHU%2F-Uoy3chE5gU%2Fs1600%2FRock%2BPaper%2BScissors%2BLizard%2BSpock.png&f=1&nofb=1);
+  background-size:80vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#playerResults{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+
+
+h1{
+  color: red;
+}
